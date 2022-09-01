@@ -1,0 +1,9 @@
+INSTRUCTIONS:
+
+1. You can play this game offline.
+2. Press upper arrow key for jump.
+3. Press lower arrow key for prone.
+4. You have total of five hurdles.
+5. You have to avoid hurdles. In case of collision 
+   with hurdle you'll lose a life.
+6. This game is endless.
